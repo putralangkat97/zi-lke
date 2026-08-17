@@ -1,0 +1,6 @@
+{
+  "name": "LKE Zona Integritas Kota Binjai",
+  "description": "Aplikasi Web Lembar Kerja Evaluasi Zona Integritas (LKE ZI) berbasis template MenPANRB 2026 untuk Kantor Pertanahan Kota Binjai",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
